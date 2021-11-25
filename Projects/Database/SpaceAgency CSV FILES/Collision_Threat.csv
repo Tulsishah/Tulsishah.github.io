@@ -1,0 +1,101 @@
+Tracking_ID,Threat Status,Threat Details,Date-Time,Asteroid_ID
+65010,Tackled/Over,Supernova,21/09/2007,1090
+65003,Tackled/Over,Space GPS jamming by external entity,14/01/2011,1012
+65097,Low Tier,Asteroid Collsiion,29/06/2016,1080
+65076,Tackled/Over,High Neutrion Burst,10/01/2018,1000
+65049,Medium Tier,High Neutrion Burst,08/07/2017,1064
+65051,Simple Warning,Asteroid Collsiion,31/08/2011,1013
+65099,Medium Tier,Debris Alert for Sats,31/03/2010,1093
+65008,Tackled/Over,Supernova,18/05/2021,1018
+65086,Medium Tier,High Neutrion Burst,21/05/2015,1045
+65040,Imminent,Asteroid Collsiion,10/01/2006,1025
+65041,Low Tier,Debris Alert for Sats,10/10/2015,1098
+65016,Simple Warning,bad upper layer space weather,20/11/2015,1061
+65027,Tackled/Over,Low Neutrino Burst,13/10/2021,1020
+65004,Simple Warning,Supernova,10/09/2016,1042
+65053,Tackled/Over,Space GPS jamming by external entity,01/01/2015,1032
+65065,Low Tier,bad upper layer space weather,25/05/2008,1078
+65034,Tackled/Over,Low Neutrino Burst,13/04/2019,1050
+65005,Medium Tier,Debris Alert for Sats,31/07/2019,1075
+65032,High Tier,Asteroid Collsiion,12/11/2018,1006
+65079,Imminent,Debris Alert for Sats,18/08/2018,1074
+65059,High Tier,Asteroid Collsiion,24/02/2012,1086
+65011,Medium Tier,Asteroid Collsiion,15/01/2012,1007
+65071,Tackled/Over,High Neutrion Burst,19/06/2006,1095
+65044,Imminent,Space GPS jamming by external entity,16/12/2014,1034
+65081,Tackled/Over,Space GPS jamming by external entity,23/04/2016,1100
+65055,Tackled/Over,Space GPS jamming by external entity,10/04/2007,1026
+65000,Low Tier,Low Neutrino Burst,25/02/2015,1030
+65012,Simple Warning,Asteroid Collsiion,04/12/2013,1028
+65025,Low Tier,Debris Alert for Sats,13/11/2018,1067
+65006,Imminent,Space GPS jamming by external entity,17/07/2006,1066
+65021,Medium Tier,Space GPS jamming by external entity,12/08/2014,1043
+65089,Tackled/Over,bad upper layer space weather,25/08/2018,1005
+65064,Imminent,Low Neutrino Burst,07/10/2017,1047
+65045,Imminent,Debris Alert for Sats,19/06/2009,1087
+65062,Low Tier,Supernova,20/09/2013,1038
+65058,Tackled/Over,High Neutrion Burst,13/07/2011,1019
+65018,Simple Warning,Space GPS jamming by external entity,02/05/2020,1059
+65001,Simple Warning,High Neutrion Burst,21/10/2010,1068
+65036,Medium Tier,Low Neutrino Burst,17/09/2014,1060
+65078,High Tier,Debris Alert for Sats,13/01/2011,1033
+65054,Simple Warning,Debris Alert for Sats,31/10/2006,1027
+65092,High Tier,Debris Alert for Sats,12/01/2015,1071
+65093,Tackled/Over,bad upper layer space weather,27/05/2008,1044
+65088,Medium Tier,Debris Alert for Sats,28/11/2006,1069
+65039,Low Tier,High Neutrion Burst,02/08/2020,1053
+65090,Simple Warning,Supernova,26/04/2021,1063
+65060,High Tier,Supernova,22/06/2010,1023
+65074,High Tier,Asteroid Collsiion,11/08/2013,1082
+65087,Low Tier,bad upper layer space weather,19/05/2011,1092
+65013,Imminent,High Neutrion Burst,18/05/2018,1081
+65072,Imminent,Supernova,11/12/2020,1058
+65066,Medium Tier,Low Neutrino Burst,23/05/2006,1003
+65024,Tackled/Over,bad upper layer space weather,17/11/2008,1052
+65029,Imminent,Low Neutrino Burst,25/05/2010,1089
+65047,Simple Warning,Space GPS jamming by external entity,05/10/2017,1024
+65015,Medium Tier,Asteroid Collsiion,23/06/2008,1010
+65042,Simple Warning,bad upper layer space weather,25/11/2012,1036
+65050,Simple Warning,Supernova,15/10/2010,1073
+65098,High Tier,Low Neutrino Burst,05/12/2019,1096
+65043,High Tier,Supernova,04/07/2018,1057
+65026,Imminent,Space GPS jamming by external entity,16/07/2007,1088
+65068,Tackled/Over,Asteroid Collsiion,05/11/2021,1055
+65094,Medium Tier,Asteroid Collsiion,14/12/2019,1099
+65061,High Tier,High Neutrion Burst,11/01/2019,1014
+65020,Imminent,Supernova,28/08/2021,1031
+65019,Low Tier,Asteroid Collsiion,24/03/2016,1072
+65017,Low Tier,Low Neutrino Burst,05/10/2010,1009
+65052,Low Tier,Low Neutrino Burst,11/12/2019,1011
+65077,Medium Tier,bad upper layer space weather,13/12/2011,1015
+65083,Medium Tier,High Neutrion Burst,01/05/2011,1054
+65038,Imminent,bad upper layer space weather,20/06/2021,1040
+65028,Medium Tier,Supernova,29/07/2018,1037
+65033,Medium Tier,Low Neutrino Burst,24/06/2013,1046
+65073,Tackled/Over,bad upper layer space weather,15/11/2007,1049
+65031,Low Tier,High Neutrion Burst,14/02/2009,1065
+65096,Low Tier,Supernova,22/12/2009,1016
+65069,Tackled/Over,Debris Alert for Sats,03/10/2012,1084
+65046,Imminent,bad upper layer space weather,01/11/2020,1077
+65002,High Tier,High Neutrion Burst,20/12/2007,1094
+65063,Tackled/Over,Low Neutrino Burst,12/12/2008,1029
+65030,Tackled/Over,High Neutrion Burst,08/05/2017,1070
+65048,Simple Warning,Supernova,07/07/2016,1056
+65067,Low Tier,Low Neutrino Burst,24/12/2015,1091
+65082,Simple Warning,Low Neutrino Burst,15/08/2015,1079
+65084,Tackled/Over,Supernova,15/11/2012,1008
+65035,High Tier,Asteroid Collsiion,07/04/2015,1004
+65023,Low Tier,Debris Alert for Sats,08/07/2011,1035
+65091,Tackled/Over,Space GPS jamming by external entity,31/08/2012,1017
+65075,Medium Tier,Asteroid Collsiion,13/12/2008,1021
+65056,High Tier,Asteroid Collsiion,30/06/2019,1048
+65014,Imminent,bad upper layer space weather,24/11/2008,1051
+65080,Imminent,Supernova,20/07/2018,1022
+65037,Tackled/Over,High Neutrion Burst,15/11/2013,1085
+65009,Low Tier,Debris Alert for Sats,09/12/2011,1001
+65007,Medium Tier,bad upper layer space weather,01/12/2014,1076
+65095,High Tier,Low Neutrino Burst,14/04/2017,1039
+65070,Imminent,Space GPS jamming by external entity,04/12/2007,1002
+65085,High Tier,Asteroid Collsiion,01/09/2019,1062
+65022,Tackled/Over,bad upper layer space weather,04/08/2021,1083
+65057,Imminent,Supernova,13/07/2013,1097

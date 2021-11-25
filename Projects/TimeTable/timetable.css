@@ -1,0 +1,111 @@
+body{
+    background-color: white;
+}
+button:focus { outline: none; }
+.days{
+    font-size:30px;
+    width: 100%;
+    border: none;
+    display: block;
+    height:100px;
+    color:black;
+    border-bottom: 1px solid gray;
+    padding: 15px 32px;
+    background: transparent;
+    cursor: pointer;
+    float: left;
+   
+}
+#days{
+  height: 600px;
+  position: fixed;
+  overflow-y:scroll;
+  -webkit-overflow-scrolling: touch;
+}
+.sub{
+    font-size:15px;
+    border: none;
+    display: block;
+    height:fit-content;
+    color:black;
+    position: relative;
+    
+    padding: 15px 32px;
+    background: transparent;
+    cursor: pointer;
+    
+}
+.day{
+    background-color: black;
+    font-size: 45px;
+     text-align: center;
+     height: 20px;
+        color: blanchedalmond;
+                        height: 70px;
+}
+#Imagev{
+  float: right;
+  height: 600px;
+  width: 900px; 
+}
+#pannel{
+ float:right;
+
+}
+.head{
+    background-color: black;
+}
+@media only screen and (max-width: 1200px)
+{
+    #days{
+        height: 500px;
+       
+      } 
+}
+@media only screen and (max-width: 767px) {
+  
+  
+    #days{
+      display:inline;
+      width: 100%;
+      font-size: 7px;
+    
+      position: relative;
+      overflow:auto;
+  -webkit-overflow-scrolling: touch;
+      
+    }
+    
+   
+    .days{
+        font-size:5px;
+        width: 100%;
+        height:10px;
+        background-color: black;
+        color: blanchedalmond;
+        
+    }
+    #pannel{
+        display: inline-block;
+        display:inline;
+        width: 100%;
+        font-size: 10px;
+        position: relative;
+        
+    }
+    .day{
+        font-size: 20px;
+        background-color:black;
+        height:30px;
+        width: 100%;
+    }
+    #Imagev{
+        float: right;
+        height:100%;
+        width: 100% ; 
+       
+      }
+      .head{
+        background-color: black;
+    }
+  }

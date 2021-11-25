@@ -1,0 +1,100 @@
+Satellite_ID,Satellite_Name,Orbit Details,orbit_distance,orbit_velocity,orbit_period,navigation_system,number_of_malfunctioning_parts,malfunctioning_parts_name,health_percentage,Services,Planet_ID
+541,CSG-1 (COSMO-SkyMed Second Generation),Non-Polar Inclined,959,6493,94.6,QZSS,37,Nav Computer,85,"Nanosatellite; planned constellation of 48 satellites, little LEO; asset tracking and monitoring services.",409
+588,Gaofen-1-04,Sun-Synchronous,580,6222,100.4,GPS,32,Transponders,67,Operational nucleus of the full 30-satellite constellation.,407
+528,Astrocast 0.1,Non-Polar Inclined,995,7652,1436.1,Galileo,18,Signal Receiver,83,"24 Ku-band transponders. Will provide HD, 4K and 8K Ultra HD television broadcasts over Japan.",402
+593,"COSMIC 2-3 (COSMIC FM-3, Formosat 7C)",Sun-Synchronous,1188,7152,96.2,QZSS,26,Antenna System,68,Accelerate the technology development and practical utilization of micro/nano-satellites.,403
+506,Starlink-1043,Non-Polar Inclined,1157,7980,109.4,GPS,16,Encoder,75,Training satellite; carries an amateur radio payload.,409
+517,Swift,Non-Polar Inclined,602,7272,94.5,GLONASS,35,Encoder,79,Replaced Eutelsat 70A.,401
+556,Grace Follow-on-1 (Gravity Recovery and Climate Experiment Follow-on-1),Non-Polar Inclined,552,6444,94.85,Galileo,11,Encoder,72,Normally part of a six-satellite constellation.,408
+573,Starlink-1064,Polar,1043,7200,1436.04,QZSS,43,Station Keeping,76,"Voice communication, data, imagery and video; survivable global military communication system. ""World's most secure, nuclear survivable, space-based communication system.""",407
+515,O3b FM06,Sun-Synchronous,1346,6249,90.3,GPS,19,Nav Computer,86,Wireless network for North America,408
+513,Starlink-1166,Sun-Synchronous,818,6505,90.3,GLONASS,35,Signal Receiver,92,Cubesat designed to survive entry into Earth's atmosphere. Purpose is to demonstrate the use of a cubesat as a re-entry vehicle for future materials testing experiments.,401
+519,Lemur-2-SarahBettyBoo (Lemur 2F93),Polar,1121,6911,94.5,BeiDou,20,Nav Computer,66,Amateur radio.,408
+540,Globalstar M070 (Globalstar 70),Sun-Synchronous,1405,7009,93,GLONASS,16,Nav Computer,66,48 transponders.,403
+571,Starlink-1172,Sun-Synchronous,1231,6374,95.13,GPS,12,Nav Computer,70,Test cubesat.,405
+539,Galaxy-19,Non-Polar Inclined,969,6108,100.4,BeiDou,44,Encoder,71,Color and infrared cameras for wide-area imaging. 10 satellite fleet planned.,404
+583,"Keyhole 5 (Advanced KH-11, KH-12-5, Improved Crystal, EIS-3, USA 186)",Non-Polar Inclined,855,7850,90.5,GPS,10,Nav Computer,77,Communications services; part of planned 24-satellite constellation. First commercial satellites.,403
+509,Starlink-1193,Sun-Synchronous,767,6762,93.8,BeiDou,26,Encoder,68,Provides tactical intelligence focused support to broad community of users consisting of uniformed military services and government agencies for both exercises and operations.,406
+562,Starlink-1073,Molniya,1149,7847,94.6,QZSS,46,Nav Computer,78,"The system will enable Algeria to obtain very high quality images for use in a wide variety of applications: cartography, management of agriculture, forestry, water, mineral and oil resources, crop protection, management of natural disasters and land planning.",407
+563,Starlink-1009,Sun-Synchronous,949,6832,116.04,QZSS,22,Power System,73,Technology demonstration for Air Force Space Command,405
+525,Meridian-3,Polar,1285,6697,1436,BeiDou,23,Buffer Battery,94,"The satellite carries an RGB imaging system using a dust detection algorithm to detect, monitor and study dust storm events over Iraq.",402
+572,"Navstar GPS IIR-M-2 (Navstar SVN 52, PRN 31, USA 190)",Polar,1121,6544,95.5,NAVIC,11,Fixing Transmitter,70,Multi-wavelength observatory for study of gamma-ray burst (GRB) science; mission life 2 yrs.,406
+520,OneWeb-0013,Sun-Synchronous,1433,7886,94,GPS,7,Encoder,75,Follow-on to Resourcesat 1; will provide data with enhanced multispectral and spatial coverage as well.,406
+564,Jilin-1 (High Resolution 03-A),Non-Polar Inclined,1436,7501,1436.03,NAVIC,34,Transponders,94,"28 Ku-band transponders to provide internet and television services to Japan, East Asia, and the Pacific region.",405
+530,Starlink-1125,Non-Polar Inclined,1373,6439,720.71,GPS,35,Power System,75,American amateur radio satellite.,408
+596,NROL-129 (USA 306),Sun-Synchronous,518,6131,95.6,QZSS,30,Antenna System,93,The GPM Core observatory is equipped with radar and microwave imagers to collect data to measure precipitation in the Earth's atmosphere.,402
+578,Iridium Next SV 154,Non-Polar Inclined,936,6134,95.7,GLONASS,49,Power System,67,Military communications - designed to replace Molniya and Parus spacecraft.,409
+574,"Kompsat-3 (Arirang 3, Korean Multipurpose Satellite-3)",Sun-Synchronous,1135,6588,95.6,Galileo,33,Antenna System,87,Enable accurate forecasts and weather monitoring that is crucial in agriculture.,403
+584,Tianhui 1-01,Polar,1371,7401,1875.53,BeiDou,7,Signal Receiver,95,Released from USA 284. The Air Force describes Mycroft as a “fourth-generation space situational awareness experiment.”,401
+510,Starlink-1145,Non-Polar Inclined,1223,6957,111.8,NAVIC,28,Antenna System,71,"Support Geographical Information Systems, environmental, agricultural and oceanographic monitoring. There may also be a miltary/strategic imaging role.",404
+516,X-Sat,Sun-Synchronous,987,6668,90.5,GPS,48,Nav Computer,65,Exploration of space.,409
+599,Dove 2k-45 (0 Flock 2K-45 100D),Polar,908,7793,1436.1,GLONASS,48,Power System,91,36 Ku- and Ka-band transponders.,406
+545,Iridium Next SV 116,Sun-Synchronous,1167,7804,95.6,QZSS,31,Signal Receiver,88,Placed into the wrong transfer orbit; working its way up and should be totally operational.,409
+580,GPM Core Observatory (Global Precipitation Measurement),Non-Polar Inclined,642,6895,95.6,BeiDou,43,Antenna System,79,"First satellite developed by teenagers as part of an outreach project to engage youth in thinking about space, STEAM education, and even satellite development.",403
+511,Starlink-1102,Non-Polar Inclined,1299,7421,95.6,Galileo,28,Command and Control System,84,"32 Ku-band, 24 C-band and 2 Ka-band transponders; voice and video throughout North America.",402
+586,Eutelsat 9B (Hot Bird 13E),Non-Polar Inclined,1131,7489,1436.1,GLONASS,47,Command and Control System,68,X-band radar imaging. Will share orbit with 2 German radar satellites -- TerraSAR-X and TanDEM-X and coordinate with them. Part of ESA's Copernicus mission.,404
+551,Astrocast 0.2,Non-Polar Inclined,860,6245,1438.5,BeiDou,11,Fixing Transmitter,71,To develop the first Korean SAR (Synthetic Aperture Radar) Satellite,408
+542,ORBCOMM OG2 FM-109,Sun-Synchronous,802,7026,94.19,BeiDou,20,Power System,92,"Remote sensing for both commercial customers and the National Geospatial-Intelligence Agency (NGA), GeoEye-1 is capable of acquiring image data at 0.41 meter panchromatic and 1.65 meter multispectral resolution. Experienced an antenna anomaly in 12/09.",408
+570,Zhuhai-1-03 (OVS-3),Sun-Synchronous,786,6181,90.5,GPS,30,Buffer Battery,76,Experimental remote sensing of night light.,406
+576,Meteosat 11 (MSG 4),Non-Polar Inclined,977,7121,717.9,BeiDou,3,Power System,76,Ocean-imaging surveillance satellite.,403
+594,"DMSP 5D-3 F17 (Defense Meteorological Satellites Program, USA 173)",Sun-Synchronous,655,6249,713.9,BeiDou,39,Fixing Transmitter,76,Third of a planned 60-satellite constellation.,407
+555,Jilin-1-5 (Shipin 5),Deep Highly Eccentric,1342,7149,1436.1,Galileo,40,Signal Receiver,94,IoT data relay.,405
+558,Starlink-74,Non-Polar Inclined,1166,6799,100.53,QZSS,33,Transponders,86,Replaces the US-OKO early warning system.,405
+533,"Rodnik (Cosmos 2416, Strela 3M)",Non-Polar Inclined,1052,6192,98.7,BeiDou,38,Command and Control System,81,"ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.",407
+524,Yaogan 16C (Remote Sensing Satlelite 16C),Non-Polar Inclined,992,7521,1436.08,NAVIC,23,Buffer Battery,90,"Initially put into wrong orbit, but was able to correct.",407
+521,Azerspace 2/Intelsat-38,Sun-Synchronous,1274,6603,1436.09,QZSS,7,Encoder,81,Only second time Japan has successfully launched a commercial geosynchronous satellite into orbit.,404
+553,Lucky-7,Non-Polar Inclined,936,7179,1436.1,BeiDou,10,Command and Control System,69,Monitor space environment; conduct several experiments.,404
+529,"ABS-7 (Koreasat 3, Mugungwha 3)",Non-Polar Inclined,834,6271,92.6,NAVIC,33,Antenna System,91,"Radar earth observation satellite built for, reportedly, the military of South Africa under Project Flute.",403
+565,Starlinlk-1367,Sun-Synchronous,529,7351,1436.1,GPS,45,Nav Computer,75,Technology development for user software-defined radios for beyond-line-of-sight communication in remote areas.,406
+532,OneWeb-0081,Sun-Synchronous,769,6091,96.5,BeiDou,25,Power System,92,Test satellite for multimedial communications.,407
+587,Lemur-2-Elham (Lemur 2FM99),Polar,994,6331,94.6,GLONASS,12,Buffer Battery,72,Orbit suggests an earth observation role.,403
+522,Chuangxin-3,Non-Polar Inclined,1500,7921,107.1,BeiDou,18,Command and Control System,83,SES will control the 24 C-band transponders; EchoStar the 24 Ku-band transponders.,401
+512,GSAT-12,Polar,1380,6658,1435.92,QZSS,12,Fixing Transmitter,77,First of five Germany surveillance satellites; 1-m resolution images.,409
+554,DirecTV-8,Non-Polar Inclined,795,6716,100.4,NAVIC,48,Encoder,87,"Collect atmospheric data for weather prediction and for ionosphere, climate and gravity research. ",404
+547,Youthsat,Polar,1195,6931,98.7,GPS,12,Station Keeping,73,"Part of Beidou constellation, now operational.",403
+505,"SB-WASS 3-8 (Space Based Wide Area Surveillance System) NOSS 3-8, USA 274, NRO L79, Intruder)",Non-Polar Inclined,1325,6248,1436.12,Galileo,21,Power System,74,Second in series.,404
+507,Dove 3r-1 (0 Flock 3R-1 105A),Sun-Synchronous,1319,6052,94.7,GLONASS,34,Nav Computer,78,Will receive transmissions from ground stations for fighting wildfires.,406
+504,Lemur-2-Marshall (Lemur 2F73),Sun-Synchronous,1167,7053,93.2,NAVIC,43,Antenna System,94,Totally dedicated to broadband internet services; total CONUS coverage.,406
+560,"EKS-3 (Integrated Space System, Cosmos 2541, Tundra 13L) ",Sun-Synchronous,1038,7351,114.1,GPS,17,Antenna System,75,DirecTV Latin America has leased all of the satellite’s Ku-band communications capacity to broadcast hundreds of high-definition television channels to customers across Central and South America and the Caribbean. Intelsat retains the use of a smaller C-band payload on the spacecraft.,404
+577,Meridian-9 (Meridian 19L),Sun-Synchronous,1376,6397,92.7,NAVIC,27,Nav Computer,72,Reconnaissance satellite Mideast area; especially Syria and Iran.,402
+582,Mozhayets 4 (RS-22),Polar,1176,7454,93.7,GPS,48,Signal Receiver,91,Technology demonstration of environmentally durable space hardware,402
+527,Star One C3,Polar,1304,6817,115.86,Galileo,18,Station Keeping,89,ELINT.,407
+538,NSS-9,Sun-Synchronous,609,7342,95.6,QZSS,4,Nav Computer,91,Launched in time to cover Rio Olympics. Will serve primarily Latin America.,403
+543,"Cubesat XI-IV (Oscar 57, CO-57)",Sun-Synchronous,881,6951,109.42,QZSS,12,Antenna System,78,"ELINT system; wide area ocean surveillance, primarily for the Navy and surveillance of shipping.",404
+550,Tianqi-1,Sun-Synchronous,694,6638,93.7,Galileo,28,Station Keeping,87,"Land survey satellite. Provide data for the country’s land resources investigation, natural disaster prevention, agriculture development, water resource management, environmental survey and urban planning.",408
+544,"TianYi-15 (Xiaoxiang 1-08, Dianfeng)",Sun-Synchronous,896,7780,115.8,GLONASS,4,Power System,74,"Automatic Identification System (AIS) satellite; real-time data on the locations, speeds and routes of vessels through Canadian oceans.",405
+508,Yunhai-2 06,Sun-Synchronous,743,6634,90.6,NAVIC,18,Buffer Battery,82,ELINT.,402
+592,ELFIN-Star,Non-Polar Inclined,660,7096,1436,BeiDou,27,Command and Control System,69,Will measure depth of ice with lasers from space.,403
+591,Yaogan 15 (Remote Sensing Satellite 15),Non-Polar Inclined,630,7538,114.1,GPS,10,Encoder,82,Several technology demonstration experiments and including an experiment to monitor AIS (Automatic Information System) messages transmitted from ships at sea.,402
+566,Starlink-1357,Equatorial,536,7404,1436.06,BeiDou,34,Nav Computer,95,Technology demonstration for Air Force Space Command,408
+548,"Yinhe 1 (Galaxy 1, GS-SparkSat-03) ",Sun-Synchronous,629,7498,1434.9,GPS,10,Encoder,95,"Second series for China's data relay satellites, used in manned space missions including space station.",404
+569,Dove 3m-4 (0 Flock 3M-4 0F4C),Sun-Synchronous,1209,7230,94.6,NAVIC,24,Encoder,92,Normally part of a six-satellite constellation.,406
+514,Lemur-2-Pappy (Lemur 2FM108),Non-Polar Inclined,1001,7884,96.47,NAVIC,7,Nav Computer,86,Space weather and ionospheric research mission.,405
+503,Can-X4,Non-Polar Inclined,560,7075,94.23,Galileo,11,Buffer Battery,80,First dedicated astrophysics observatory put into space by China.,407
+559,Ningxia-1 03,Sun-Synchronous,1091,6718,100.4,Galileo,40,Antenna System,65,"13 S-band, 27 Ku-band transponders, covers Indonesia, india, Taiwan and the Philippines. Purchased at auction in Dec. 2009 for $185 million.",409
+595,TIBA-1,Non-Polar Inclined,1005,7641,101.5,Galileo,4,Command and Control System,94,"Will supply high-resolution imagery from the new satellite to 21AT, a company founded in China and now based in Singapore.",401
+581,"Hisaki (Sprint A, Spectroscopic Planet Observatory for Recognition of Interaction of Atmosphere)",Non-Polar Inclined,1457,6229,1436.1,BeiDou,16,Transponders,72,Carries 5 science and technology packages for the Air Force and other agencies.,401
+557,ÑuSat-7 (Sophie),Non-Polar Inclined,1189,6604,94.3,BeiDou,6,Command and Control System,76,Next generation expected to last to 2030,401
+597,Jilin-1 Kuanfu-1,Sun-Synchronous,1301,7158,93.7,Galileo,18,Nav Computer,70,Replaces Amos 5 which failed in 2015.,407
+526,Starlink-1244,Non-Polar Inclined,751,6095,1436.08,BeiDou,1,Signal Receiver,89,Communications services; part of planned 24-satellite constellation. First commercial satellites.,402
+500,HYLAS 4 (Highly Adaptable Satellite),Polar,1077,7162,100,GLONASS,28,Nav Computer,82,Next generation expected to last to 2030,405
+589,Dove 2k-25 (0 Flock 2K-25 0F4D),Sun-Synchronous,1327,6283,98.9,GPS,41,Transponders,90,"Testbeds for SpaceX's StarLink Internet broadband fleet - possibly over 7,000 satellites in constellation.",409
+568,Starlink-1264,Polar,1199,6805,95.6,BeiDou,7,Power System,92,Demonstrate an S-band inter-satellite communications package that could allow future constellations of spacecraft to conduct autonomous missions.,401
+518,Starlink-1287,Sun-Synchronous,917,6240,1436.07,NAVIC,45,Station Keeping,88,Unknown operator. Will conduct tests of inter-satellite networking links and Earth observation technology.,409
+575,Worldview 2,Polar,817,7693,96.5,GPS,38,Buffer Battery,87,"First a technology demonstration, then extended for one year for remote sensing; looks like a washing machine.",405
+535,Swayam,Non-Polar Inclined,1372,7846,94.6,QZSS,31,Fixing Transmitter,76,Technology development for user software-defined radios for beyond-line-of-sight communication in remote areas.,402
+579,Starlink-1459,Non-Polar Inclined,1409,6048,90.6,GPS,32,Command and Control System,78,Part of international Disaster Monitoring Constellation.,408
+536,"DAVE (Damping and Vibrations Experiment, CP7)",Non-Polar Inclined,665,6612,1436.05,NAVIC,7,Station Keeping,75,Carries a high resolution imager; telecommunications.,401
+598,Gonets M-13 (Gonets M23),Polar,918,7257,92.1,GLONASS,8,Transponders,78,Work with Australian military to test communications and software-based radio technology in space.,409
+537,Starlink-66,Sun-Synchronous,1063,6027,1436.1,GLONASS,24,Nav Computer,68,Near-polar orbits; investigate Earth's environment.,406
+501,"SOHLA 1 (Space Oriented Higashiosaka Leading Association, Maido 1)",Non-Polar Inclined,599,7634,1436.08,GLONASS,29,Nav Computer,79,X and Ka-band transponders. Will replace DSCS system.,405
+523,Beidou DW 36,Sun-Synchronous,661,6016,100.4,Galileo,14,Encoder,91,Hyperspectral imaging,407
+567,"SES-7 (Protostar 2, Indostar 2)",Sun-Synchronous,855,6892,719.92,QZSS,5,Fixing Transmitter,74,Military communications; designed to integrate with UK's Skynet and Italy's Sicral.,401
+531,Beidou G5 (Compass G-11),Non-Polar Inclined,649,6127,92.1,Galileo,22,Power System,75,Will maintain contact with Spanish zone in Antarctica; extremely small magnetic and solar sensors.,401
+534,Dove 2k-41 (0 Flock 2K-41 1054),Non-Polar Inclined,872,6374,99.87,Galileo,41,Fixing Transmitter,92,Hyperspectral imaging,401
+590,"Globalstar M074 (Globalstar 74, Globalstar 2-2)",Polar,1022,6320,1435.92,Galileo,24,Nav Computer,92,Part of Beidou constellation.,402
+585,Zhuhai-1 (OHS 5),Sun-Synchronous,1308,7364,95.1,NAVIC,17,Fixing Transmitter,85,Part of Beidou constellation.,405
+552,Sentinel 3A,Polar,1274,6899,99.6,GPS,31,Fixing Transmitter,78,"52 Ku-band and 2 Ka-band transponders; direct-to-home, voice, video and internet.",408
+546,SPIRALE-A (Système Préparatoire Infra-Rouge pour l'Alerte),Polar,1456,7938,1461.81,NAVIC,18,Nav Computer,87,"Extremely high-quality satellite images with applications such as mapping, agriculture, town planning, and natural resource, risk and disaster management.",404
+561,HEAD-5,Non-Polar Inclined,508,7030,1436.06,GPS,49,Encoder,74,X-ray astronomy.,408
+549,Starlink-1081,Sun-Synchronous,825,6742,95.4,BeiDou,37,Power System,76,Will test miniaturized imagers.,406

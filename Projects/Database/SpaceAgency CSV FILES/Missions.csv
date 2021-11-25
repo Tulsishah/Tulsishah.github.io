@@ -1,0 +1,101 @@
+Mission ID,Launch Vehicle,Ground Segment,Mission Profile,Payload Details,Start Date,End Date,Status
+10078,GSLV Mk II,ATLAS Global Network,ISS assembly flight ULF2: MPLM Leonardo,"Neuron Spectrometer, MEV_GEV",17-06-2016,14-03-2023,INACTIVE
+10076,Atlas SLV-3,ATLAS Global Network,Explore ice caps of Moon's far side,Hyperspectral Imager for the Coastal Ocean on the International Space Station,06-10-2009,28-08-1996,COMPLETED
+10062,GSLV Mk I,ISIS Small satellite Ground Station,ISS assembly flight ULF2: MPLM Leonardo, Dual Frequency Synthetic Aperture Radar Atmospheric Compositional Explorer,24-12-2024,28-09-2003,INACTIVE
+10001,PSLV-G,OSAGS,Collect sample from Asteroid Bennu(AXCV1258),Lunar Gravity Mapper,18-09-2014,20-05-1996,SCHEDULED
+10070,GSLV Mk II,GAMALINK,ISS assembly flight ULF2: MPLM Leonardo,Lunar Gravity Mapper,10-09-1999,27-05-2004,COMPLETED
+10077,Atlas LV-3B,KSAT Lite,Study venus atmospher, Dual Frequency Synthetic Aperture Radar Atmospheric Compositional Explorer,21-12-2019,29-08-2013,SCHEDULED
+10025, Ares I, Surrey Ground segment,Study GH123 and SI145 of Kuiper belt," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",25-02-2021,15-09-2019,ACTIVE
+10022,GSLV Mk II,ATLAS Global Network,Study working of Laser Interferometer Space Antenna (LISA)," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",05-11-2021,01-12-2027,ACTIVE
+10036,M-3SII,GAMALINK,Observe radio signals from outer amosphere of Urans," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",20-02-2013,12-07-2015,SCHEDULED
+10083,PSLV-XL,GAMALINK,Observe radio signals from outer amosphere of Urans,Lunar Gravity Mapper,26-11-1999,29-11-2013,SCHEDULED
+10014,Ares IV, Surrey Ground segment,Search for pockets of water below mars surface," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",06-04-2012,18-03-2019,SCHEDULED
+10024,PSLV-XL,OSAGS,mapping composition of ice on Mars," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",11-03-1996,12-04-2008,COMPLETED
+10063,Atlas SLV-3,KSAT Lite,"Study planet formatiom, how life rose on earth in early solar system",Cadmium Zinc Telluride Meter,20-04-2000,20-03-2007,COMPLETED
+10005,Atlas LV-3B,ISIS Small satellite Ground Station,ISS assembly flight ULF2: MPLM Leonardo,"Neuron Spectrometer, MEV_GEV",20-12-2023,05-03-2004,INACTIVE
+10082,PSLV-DL, Surrey Ground segment,Collect sample from Asteroid Bennu(AXCV1258),"Neuron Spectrometer, MEV_GEV",21-09-2024,09-10-1995,SCHEDULED
+10038,PSLV-XL,OSAGS,Observe radio signals from outer amosphere of Urans," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",23-06-2000,02-01-2020,INACTIVE
+10008,PSLV-CA,OSAGS,Tracking and data relay satellite (TDRS-G) deployment," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",07-12-2018,28-02-2023,COMPLETED
+10044,PSLV-DL,GAMALINK,Explore moons of saturn and its gaseous rings," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",19-03-2007,04-05-1996,INACTIVE
+10056,GSLV Mk III,KSAT Lite,"Study Europa, Callisto and Ganymede"," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",04-02-2019,04-03-2017,SCHEDULED
+10003,PSLV-CA,GAMALINK,Search for pockets of water below mars surface," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",25-08-2005,09-08-2001,INACTIVE
+10041,Atlas LV-3B, Surrey Ground segment,Study venus atmospher," Solar X ray monitor, Orbiter High Rsolution camera",16-05-2000,15-04-2014,INACTIVE
+10000,Ares IV,OSAGS,Explore moons of saturn and its gaseous rings,"Methane Sensor,Mars Color Camera,Lyman Alpha Photometer,Mars Exospheric Neutral Composition Analyser,Thermal Infrared Imaging Spectrometer",24-09-1998,25-10-2002,INACTIVE
+10046,Atlas LV-3B,KSAT Lite,"Crew rotation,Assembly of Station by EVA Methods (ASEM) space station truss experiment EVA","Neuron Spectrometer, MEV_GEV",12-05-2020,21-01-2024,INACTIVE
+10051,PSLV-DL,ATLAS Global Network,"Study Europa, Callisto and Ganymede",Hyperspectral Imager for the Coastal Ocean on the International Space Station,22-04-1998,29-05-2006,INACTIVE
+10089,Ares II,KSAT Lite,mapping composition of ice on Mars," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",20-04-2017,26-10-1995,ACTIVE
+10065, Ares I,ATLAS Global Network,Observe radio signals from outer amosphere of Urans,Lunar Gravity Mapper,13-12-1996,18-05-2023,INACTIVE
+10037,Ares V,ISIS Small satellite Ground Station,Study venus atmospher," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",05-07-2020,16-08-2016,COMPLETED
+10016,GSLV Mk I,KSAT Lite,Study the rings of Netptune and it's gas composition," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",17-02-2016,27-01-2021,COMPLETED
+10009,GSLV Mk III,ISIS Small satellite Ground Station,Experiments aboard Space Radar Laboratory-2," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",27-03-1995,05-08-2007,ACTIVE
+10033, Ares I,ATLAS Global Network,Study working of Laser Interferometer Space Antenna (LISA),"Terrain mapping Camera, large area soft X ray spectrometer",10-04-2008,06-12-2012,ACTIVE
+10032,PSLV-XL, Surrey Ground segment,Observe radio signals from outer amosphere of Urans," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",05-08-2001,14-04-2000,COMPLETED
+10081,Ares II,GAMALINK,ISS assembly flight ULF2: MPLM Leonardo," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",27-12-2019,13-06-2010,INACTIVE
+10061,GSLV Mk I,ISIS Small satellite Ground Station,Explore ice caps of Moon's far side,Cadmium Zinc Telluride Meter,22-11-2000,15-03-2021,SCHEDULED
+10094,M-3SII,ISIS Small satellite Ground Station,"Dragonfly mission to study titan, Saturn's moon"," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",12-02-2013,20-09-2025,COMPLETED
+10045,Ares II,OSAGS,ISS assembly flight ULF2: MPLM Leonardo," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",26-09-2020,15-11-2013,COMPLETED
+10084,PSLV-CA,KSAT Lite,ISS assembly flight ULF2: MPLM Leonardo,Cadmium Zinc Telluride Meter,04-09-2021,16-07-2027,SCHEDULED
+10090, Ares I,GAMALINK,"Study Europa, Callisto and Ganymede", Dual Frequency Synthetic Aperture Radar Atmospheric Compositional Explorer,22-09-2004,29-03-2009,SCHEDULED
+10007,GSLV Mk I,KSAT Lite,Study Oort Cloud's gamma ray beat,"Neuron Spectrometer, MEV_GEV",06-10-2001,02-07-2015,INACTIVE
+10018,PSLV-XL,ATLAS Global Network,Study atmosphere of Jupiter," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",20-11-2009,03-05-2020,ACTIVE
+10027,GSLV Mk III,ATLAS Global Network,Tracking and data relay satellite (TDRS-G) deployment, Imaging IR spectrometer,30-06-2010,09-01-2010,INACTIVE
+10013,PSLV-3S,KSAT Lite,Study the rings of Netptune and it's gas composition," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",25-05-1997,19-01-2010,ACTIVE
+10015,PSLV-XL,KSAT Lite,Tracking and data relay satellite (TDRS-G) deployment,"Methane Sensor,Mars Color Camera,Lyman Alpha Photometer,Mars Exospheric Neutral Composition Analyser,Thermal Infrared Imaging Spectrometer",06-03-2015,24-05-2014,SCHEDULED
+10079,Ares IV,OSAGS,Study venus atmospher,"Neuron Spectrometer, MEV_GEV",09-08-2000,08-03-2019,ACTIVE
+10086,Atlas LV-3B,GAMALINK,"Dragonfly mission to study titan, Saturn's moon",Cadmium Zinc Telluride Meter,03-02-2004,09-04-2021,INACTIVE
+10080,M-3SII,ATLAS Global Network,Experiments aboard Space Radar Laboratory-2," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",07-03-2007,11-09-2009,INACTIVE
+10010,Ares III, Surrey Ground segment,"Dragonfly mission to study titan, Saturn's moon",Cadmium Zinc Telluride Meter,09-04-1997,27-05-2020,SCHEDULED
+10058,GSLV Mk III,ATLAS Global Network,"Dragonfly mission to study titan, Saturn's moon"," Solar X ray monitor, Orbiter High Rsolution camera",24-04-2010,20-09-2023,COMPLETED
+10050,M-3SII,OSAGS,"CHEOPS: Measure diameter of exoplanets EX798, SK582, DIV560","Methane Sensor,Mars Color Camera,Lyman Alpha Photometer,Mars Exospheric Neutral Composition Analyser,Thermal Infrared Imaging Spectrometer",31-01-2024,11-07-2011,ACTIVE
+10091,PSLV-DL,GAMALINK,Search for pockets of water below mars surface," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",12-01-1998,08-08-1997,ACTIVE
+10030,PSLV-G,ISIS Small satellite Ground Station,Study venus atmospher," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",30-05-2005,14-08-2022,INACTIVE
+10066, Ares I,GAMALINK,Study venus atmospher,Cadmium Zinc Telluride Meter,19-05-1996,09-06-2013,ACTIVE
+10040, Ares I,GAMALINK,Collect sample from Asteroid Bennu(AXCV1258)," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",02-04-2012,07-11-2020,INACTIVE
+10020, Ares I,ATLAS Global Network,Study venus atmospher,Cadmium Zinc Telluride Meter,14-08-2018,28-06-1997,COMPLETED
+10068,GSLV Mk III, Surrey Ground segment,Study venus atmospher,Lunar Gravity Mapper,15-02-2018,04-08-2015,ACTIVE
+10043,Ares V,ISIS Small satellite Ground Station,mapping composition of ice on Mars,Hyperspectral Imager for the Coastal Ocean on the International Space Station,11-07-1998,03-09-2016,INACTIVE
+10067,GSLV Mk III,ISIS Small satellite Ground Station,"Crew rotation,Assembly of Station by EVA Methods (ASEM) space station truss experiment EVA",Cadmium Zinc Telluride Meter,19-08-2012,13-09-1998,COMPLETED
+10059,Ares II,ATLAS Global Network,"Dragonfly mission to study titan, Saturn's moon"," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",08-01-2024,12-09-2024,COMPLETED
+10042,Atlas LV-3B,OSAGS,Study GH123 and SI145 of Kuiper belt,"Methane Sensor,Mars Color Camera,Lyman Alpha Photometer,Mars Exospheric Neutral Composition Analyser,Thermal Infrared Imaging Spectrometer",30-05-2011,10-08-2015,COMPLETED
+10085,Atlas SLV-3,ISIS Small satellite Ground Station,"Study Europa, Callisto and Ganymede"," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",13-07-2014,01-07-2014,ACTIVE
+10034,Ares V,ISIS Small satellite Ground Station,Study the rings of Netptune and it's gas composition,"Terrain mapping Camera, large area soft X ray spectrometer",24-04-2002,12-02-2018,COMPLETED
+10031,Ares III,GAMALINK,Tracking and data relay satellite (TDRS-G) deployment,"Neuron Spectrometer, MEV_GEV",15-06-2014,07-11-2021,ACTIVE
+10074,GSLV Mk II,ISIS Small satellite Ground Station,Build complete picture of Saturn's climate," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",03-10-2024,29-08-2008,COMPLETED
+10029,PSLV-3S,ATLAS Global Network,"Crew rotation,Assembly of Station by EVA Methods (ASEM) space station truss experiment EVA"," Solar X ray monitor, Orbiter High Rsolution camera",02-06-2012,31-12-2012,INACTIVE
+10071,GSLV Mk II,GAMALINK,Tracking and data relay satellite (TDRS-G) deployment,"Methane Sensor,Mars Color Camera,Lyman Alpha Photometer,Mars Exospheric Neutral Composition Analyser,Thermal Infrared Imaging Spectrometer",24-06-2021,07-06-2005,INACTIVE
+10053,GSLV Mk II,ATLAS Global Network,Collect sample from Asteroid Bennu(AXCV1258)," Solar X ray monitor, Orbiter High Rsolution camera",21-10-2012,02-04-2014,COMPLETED
+10072,PSLV-CA,OSAGS,Study atmosphere of Jupiter," Solar X ray monitor, Orbiter High Rsolution camera",02-06-2000,16-01-2006,INACTIVE
+10019,Ares V,ISIS Small satellite Ground Station,"CHEOPS: Measure diameter of exoplanets EX798, SK582, DIV560"," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",27-06-2018,27-08-2006,ACTIVE
+10060,PSLV-CA,GAMALINK,Experiments aboard Space Radar Laboratory-2, Dual Frequency Synthetic Aperture Radar Atmospheric Compositional Explorer,20-11-2023,28-07-1996,ACTIVE
+10088,GSLV Mk II,KSAT Lite,"Crew rotation,Assembly of Station by EVA Methods (ASEM) space station truss experiment EVA",Cadmium Zinc Telluride Meter,25-06-2009,05-07-2009,INACTIVE
+10093,Atlas SLV-3, Surrey Ground segment,"Study planet formatiom, how life rose on earth in early solar system"," Solar X ray monitor, Orbiter High Rsolution camera",11-01-2017,28-05-2018,ACTIVE
+10002, Ares I,KSAT Lite,Study Oort Cloud's gamma ray beat," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",26-08-1998,30-06-2012,ACTIVE
+10096,PSLV-DL,KSAT Lite,Study GH123 and SI145 of Kuiper belt,Hyperspectral Imager for the Coastal Ocean on the International Space Station,12-02-2005,17-10-2005,INACTIVE
+10021,PSLV-CA,ISIS Small satellite Ground Station,"Crew rotation,Assembly of Station by EVA Methods (ASEM) space station truss experiment EVA",Hyperspectral Imager for the Coastal Ocean on the International Space Station,24-11-2000,13-12-2006,INACTIVE
+10048,GSLV Mk II, Surrey Ground segment,Build complete picture of Saturn's climate,"Methane Sensor,Mars Color Camera,Lyman Alpha Photometer,Mars Exospheric Neutral Composition Analyser,Thermal Infrared Imaging Spectrometer",02-07-2000,30-10-2011,INACTIVE
+10049,Ares IV,ISIS Small satellite Ground Station,Study working of Laser Interferometer Space Antenna (LISA), Imaging IR spectrometer,16-06-1995,27-10-2018,SCHEDULED
+10075,Ares IV,ISIS Small satellite Ground Station,Study venus atmospher," Solar X ray monitor, Orbiter High Rsolution camera",31-03-2010,12-09-2005,ACTIVE
+10011,Atlas LV-3B,ATLAS Global Network,Study Oort Cloud's gamma ray beat," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",13-10-1998,27-08-2005,COMPLETED
+10004,PSLV-3S,GAMALINK,"Dragonfly mission to study titan, Saturn's moon","Methane Sensor,Mars Color Camera,Lyman Alpha Photometer,Mars Exospheric Neutral Composition Analyser,Thermal Infrared Imaging Spectrometer",30-08-2002,01-12-2006,ACTIVE
+10052,PSLV-3S,GAMALINK,Analyze martian soil and search for life," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",03-10-2023,02-04-2013,ACTIVE
+10054,M-3SII,KSAT Lite,Study GH123 and SI145 of Kuiper belt,"Terrain mapping Camera, large area soft X ray spectrometer",09-07-2020,08-12-2005,SCHEDULED
+10047,Atlas LV-3B,KSAT Lite,Observe radio signals from outer amosphere of Urans,Hyperspectral Imager for the Coastal Ocean on the International Space Station,27-06-2022,05-05-1999,COMPLETED
+10017,GSLV Mk III,OSAGS,Study atmosphere of Jupiter," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",25-12-2017,06-02-1996,COMPLETED
+10099,PSLV-G,GAMALINK,ISS assembly flight ULF2: MPLM Leonardo," Hyperspectral Payload for Italian PRISMA Programme, Environmental Mapping and Analysis Program, Medium Resolution Imaging Spectrometer for Ocean Colour onboard",14-02-2009,30-10-2027,COMPLETED
+10012,PSLV-3S,KSAT Lite,Study Oort Cloud's gamma ray beat," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",05-11-2006,20-05-2010,ACTIVE
+10064,Atlas SLV-3,OSAGS,mapping composition of ice on Mars,Cadmium Zinc Telluride Meter,07-07-1997,16-09-2019,ACTIVE
+10028,Ares III,KSAT Lite,"Crew rotation,Assembly of Station by EVA Methods (ASEM) space station truss experiment EVA", Dual Frequency Synthetic Aperture Radar Atmospheric Compositional Explorer,22-01-2003,26-09-2000,INACTIVE
+10069,M-3SII,ATLAS Global Network,"Dragonfly mission to study titan, Saturn's moon", Imaging IR spectrometer,15-06-2023,20-08-2002,COMPLETED
+10092,M-3SII,OSAGS,Explore moons of saturn and its gaseous rings, Dual Frequency Synthetic Aperture Radar Atmospheric Compositional Explorer,28-07-2008,08-09-2005,ACTIVE
+10057,Ares II,KSAT Lite,Collect sample from Asteroid Bennu(AXCV1258)," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",31-08-2022,11-11-2014,INACTIVE
+10098,GSLV Mk I,OSAGS,Study GH123 and SI145 of Kuiper belt," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",11-03-2004,01-07-2025,SCHEDULED
+10026,GSLV Mk II,ATLAS Global Network,Tracking and data relay satellite (TDRS-G) deployment," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",28-03-2000,04-08-2016,SCHEDULED
+10023,Ares V, Surrey Ground segment,ISS assembly flight ULF2: MPLM Leonardo, Imaging IR spectrometer,04-06-2004,25-11-2009,SCHEDULED
+10039, Ares I,OSAGS,Build complete picture of Saturn's climate, Imaging IR spectrometer,15-12-2001,29-03-2000,SCHEDULED
+10073,Ares III,GAMALINK,Analyze martian soil and search for life," Lunar Gravity Digicon Imager, Global Elemental, compostion package, Mercator",26-11-2017,14-04-2027,COMPLETED
+10006,M-3SII,ISIS Small satellite Ground Station,"Study planet formatiom, how life rose on earth in early solar system"," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",14-09-2004,10-09-2002,COMPLETED
+10097,Atlas LV-3B, Surrey Ground segment,Study working of Laser Interferometer Space Antenna (LISA)," Secondary Ion MAss Spectrometer, Electrostatic Zoom Digicon Imager",14-12-2012,21-10-2006,ACTIVE
+10095,GSLV Mk III,ATLAS Global Network,Study atmosphere of Jupiter," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",31-12-2017,31-05-2019,ACTIVE
+10055,Ares IV, Surrey Ground segment,ISS assembly flight ULF2: MPLM Leonardo,"Neuron Spectrometer, MEV_GEV",08-07-2016,23-12-2011,COMPLETED
+10087, Ares I,ATLAS Global Network,"Study planet formatiom, how life rose on earth in early solar system"," Cross-track Infrared Sounder Flying on NOAA/NASA ,GIFTS",03-11-2017,26-11-1995,SCHEDULED
+10035,PSLV-3S,KSAT Lite,"Dragonfly mission to study titan, Saturn's moon", Dual Frequency Synthetic Aperture Radar Atmospheric Compositional Explorer,18-08-2002,21-08-2009,INACTIVE

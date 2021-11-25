@@ -1,0 +1,271 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700");
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+}
+
+.table {
+  width: 100%;
+  border: 1px solid #eeeeee;
+}
+
+.table-header {
+  display: flex;
+  width: 100%;
+  background: #000;
+  padding: 18px 0;
+}
+
+.table-row {
+  display: flex;
+  width: 100%;
+  padding: 18px 0;
+}
+.table-row:nth-of-type(odd) {
+  background: #eeeeee;
+}
+
+.table-data.ratingCol {
+  display: block;
+
+}
+.table-data,
+.header__item {
+  flex: 1 1 20%;
+  align-items: center;
+  display: flex;
+  padding-left: 15px;
+}
+
+.header__item {
+  text-transform: uppercase;
+}
+
+.filter__link {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+ 
+}
+.filter__link::after {
+  content: "";
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.filter__link.desc::after {
+  content: "(desc)";
+}
+.filter__link.asc::after {
+  content: "(asc)";
+}
+
+#header
+{
+  background: #454748;
+  height: 75px;
+  margin: 0px 1px;
+  display: flex;
+}
+
+.hotel_logo
+{
+  max-height:100%;
+  max-width: 10%;
+}
+
+.header-text
+{
+  color:#f7f7f7 ;
+  max-height: 100%;
+  font-size: xx-large;
+  padding: 15px;
+  margin-left: 15px;
+  
+}
+
+.hotel-logo-image
+{
+max-width: 100%;
+height: 100%;
+}
+
+
+
+
+
+
+
+:root {
+  --rad: .7rem;
+  --dur: .3s;
+  --color-dark: #2f2f2f;
+  --color-light: #fff;
+  --color-brand: #57bd84;
+  --font-fam: 'Lato', sans-serif;
+  --height: 3rem;
+  --btn-width: 6rem;
+  --bez: cubic-bezier(0, 0, 0.43, 1.49);
+}
+
+
+.searchbar
+{  
+  max-height: 100%;
+  max-width: 30%;
+  margin-left: auto; 
+  margin-right: 0;
+  padding:15px;
+}
+
+form {
+  position: relative;
+  max-width:  20rem;
+  max-height: 75%;
+  background: var(--color-dark);
+  border-radius: var(--rad);
+
+}
+#search, .searchButton {
+  height: var(--height);
+  font-family: var(--font-fam);
+  border: 0;
+  color: var(--color-dark);
+  font-size: 1rem;
+}
+#search[type="search"] {
+  outline: 0; 
+  width: 100%;
+  background: var(--color-light);
+  padding: 0 1.6rem;
+  border-radius: var(--rad);
+  appearance: none; 
+  transition: all var(--dur) var(--bez);
+  transition-property: width, border-radius;
+  z-index: 1;
+  position: relative;
+}
+.searchButton {
+  display: none; 
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: var(--btn-width);
+  font-weight: bold;
+  background: var(--color-brand);
+  border-radius: 0 var(--rad) var(--rad) 0;
+}
+
+#search:not(:placeholder-shown) {
+  border-radius: var(--rad) 0 0 var(--rad);
+  width: calc(100% - var(--btn-width));
+   
+}
+
+
+#search:not(:placeholder-shown) + .searchButton {
+  display: block;
+}
+
+
+
+
+/* Drop Down */
+
+.reviewAnalysis
+{
+  background-color: #333;
+  margin: 10px;
+
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  margin: 10px;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+  height: 100%;
+}
+
+.dropdown #dropbtn,.reviewBtn
+{
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+  height: 100%;
+  width: 150px;
+  padding: 10px;
+}
+
+.navbar a:hover, .dropdown:hover #dropbtn {
+  background-color: #57bd84;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width: 150px;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

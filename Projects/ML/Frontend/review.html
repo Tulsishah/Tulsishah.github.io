@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="review.css">
+  <link rel="stylesheet" href="index.css">
+  
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="review.js"></script>
+
+
+</head>
+<body>
+  
+  <div class="reviewContainer">
+    <div class="reviewText">
+      Enter your review
+    </div>
+    <textarea id="text" rows="4" cols="50">
+    </textarea>
+    <br><br>
+    <button type="submit" onclick="review()" class="submitbtn" >Apply</button>    
+  
+  </div>
+  
+
+    <div class="container">
+
+	
+      <div class="table" id = "tableReview">
+        <div class="table-header">
+          <div class="header__item"><a id="ModelName" class="filter__link" href="#">Model Name</a></div>
+          <div class="header__item"><a id="Food" class="filter__link filter__link--number" href="#">Food</a></div>
+          <div class="header__item"><a id="SafetyandHygiene" class="filter__link filter__link--number" href="#">Safety and Hygiene</a></div>
+          <div class="header__item"><a id="location" class="filter__link filter__link--number" href="#">location</a></div>
+          <div class="header__item"><a id="valueformoney" class="filter__link filter__link--number" href="#">value for money</a></div>
+          <div class="header__item"><a id="hospitality" class="filter__link filter__link--number" href="#">hospitality</a></div>
+          <div class="header__item"><a id="Ratings" class="filter__link filter__link--number" href="#">Ratings</a></div>
+        
+        </div>
+        <div id="table-content">	
+        </div>	
+      </div>
+    </div>
+    
+
+  </body>
+</html>
