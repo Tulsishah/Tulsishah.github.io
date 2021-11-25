@@ -1,16 +1,19 @@
-### Hi there 👋
+##These are all the projects till seventh semester
 
-<!--
-**Tulsishah/Tulsishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Timetable
 
-Here are some ideas to get you started:
+https://tulsishah.github.io/Projects/TimeTable/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MagicNotes
+
+https://tulsishah.github.io/Projects/Magic%20Notes/
+
+Calculator
+
+https://tulsishah.github.io/Projects/Calculator/
+
+ChemicalCALC
+
+http://chemicalcalc.herokuapp.com/
+
+
