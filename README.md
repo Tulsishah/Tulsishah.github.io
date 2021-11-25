@@ -1,4 +1,4 @@
-##These are all the projects till seventh semester
+These are all the projects till seventh semester
 
 Timetable
 
