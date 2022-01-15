@@ -223,6 +223,13 @@
 							<a class="next" onclick="plusSlides(1)" style="color: black;" >❯</a>
 		
 				</div>
+
+				<div style="text-align:center">
+					<span class="dot2" onclick="currentSlide2(1)"></span> 
+					<span class="dot2" onclick="currentSlide2(2)"></span> 
+					<span class="dot2" onclick="currentSlide2(3)"></span> 
+					<span class="dot2" onclick="currentSlide2(3)"></span> 
+				  </div>
 			</div>
 		</section>
 
@@ -265,10 +272,18 @@
 		
 						<a class="prev2" onclick="plusSlides2(-1)" style="color: black; left: 10px;">❮</a>
 						<a class="next2" onclick="plusSlides2(1)" style="color: black;" >❯</a>
+
 		
 		
 				
 				</div>
+
+				
+				<div style="text-align:center">
+					<span class="dot" onclick="currentSlide2(1)"></span> 
+					<span class="dot" onclick="currentSlide2(2)"></span> 
+					<span class="dot" onclick="currentSlide2(3)"></span> 
+				  </div>
 			</div>
 		</section>
 
@@ -287,6 +302,11 @@
 			<a class="prev" onclick="plusSlides3(-1)" style="color: black; left: 10px;">❮</a>
 				<a class="next" onclick="plusSlides3(1)" style="color: black;" >❯</a>	
 			</div>
+			<div style="text-align:center">
+				<span class="dot3" onclick="currentSlide2(1)"></span> 
+				<span class="dot3" onclick="currentSlide2(2)"></span> 
+				<span class="dot3" onclick="currentSlide2(3)"></span> 
+			  </div>
 		
 			</div>
 		</section>
@@ -416,7 +436,7 @@
 			
 				
 				<div class="content" style="display: inline-block; padding: 10px 20px; text-align: center; margin-left:81px" >
-					<img src="images/close.jpg" style="background-color: black; width: 20px;height: 20px; margin-left:150%;" id="close2">
+					<img src="images/close.jpg" style="background-color: black; width: 20px;height: 20px; margin-left:140%;" id="close2">
 				<p  style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 24px;"> Drop an Email</p>
 				
 				<button type="button" id="yes" ><a href="https://gmail.com" style="color: white;" id="close">Yes</a></button>
@@ -463,8 +483,8 @@
 			function showSlides(n) {
 			  var i;
 			  var slides = document.getElementsByClassName("mySlides");
-			  var dots = document.getElementsByClassName("demo");
-			  var captionText = document.getElementById("caption");
+			 var dots = document.getElementsByClassName("dot2");
+			//  var captionText = document.getElementById("caption");
 			  if (n > slides.length) {slideIndex = 1}
 			  if (n < 1) {slideIndex = slides.length}
 			  for (i = 0; i < slides.length; i++) {
@@ -475,7 +495,7 @@
 			  }
 			  slides[slideIndex-1].style.display = "block";
 			  dots[slideIndex-1].className += " active";
-			  captionText.innerHTML = dots[slideIndex-1].alt;
+		//	  captionText.innerHTML = dots[slideIndex-1].alt;
 			}
 
 			var slideIndex2=1;
@@ -485,24 +505,27 @@
 			}
 			
 			function currentSlide2(n) {
+				console.log("tulsi2")
 			  showSlides2(slideIndex2 = n);
 			}
 
 			function showSlides2(n) {
 			  var i;
 			  var slides2 = document.getElementsByClassName("mySlide2");
-			 // var dots = document.getElementsByClassName("demo");
+			  var dots = document.getElementsByClassName("dot");
+
+			  console.log(dots)
 			//  var captionText = document.getElementById("caption");
 			  if (n > slides2.length) {slideIndex2 = 1}
 			  if (n < 1) {slideIndex2 = slides2.length}
 			  for (i = 0; i < slides2.length; i++) {
 				  slides2[i].style.display = "none";
 			  }
-			//   for (i = 0; i < dots.length; i++) {
-			// 	  dots[i].className = dots[i].className.replace(" active", "");
-			//   }
+			  for (i = 0; i < dots.length; i++) {
+				  dots[i].className = dots[i].className.replace(" active", "");
+			  }
 			  slides2[slideIndex2-1].style.display = "block";
-			//  dots[slideIndex2-1].className += " active";
+			  dots[slideIndex2-1].className += " active";
 			 // captionText.innerHTML = dots[slideIndex2-1].alt;
 			}
 
@@ -519,18 +542,18 @@
 			function showSlides3(n) {
 			  var i;
 			  var slides2 = document.getElementsByClassName("mySlide3");
-			 // var dots = document.getElementsByClassName("demo");
+			  var dots = document.getElementsByClassName("dot3");
 			//  var captionText = document.getElementById("caption");
 			  if (n > slides2.length) {slideIndex3 = 1}
 			  if (n < 1) {slideIndex3 = slides2.length}
 			  for (i = 0; i < slides2.length; i++) {
 				  slides2[i].style.display = "none";
 			  }
-			//   for (i = 0; i < dots.length; i++) {
-			// 	  dots[i].className = dots[i].className.replace(" active", "");
-			//   }
+			   for (i = 0; i < dots.length; i++) {
+			 	  dots[i].className = dots[i].className.replace(" active", "");
+			   }
 			  slides2[slideIndex3-1].style.display = "block";
-			//  dots[slideIndex2-1].className += " active";
+			  dots[slideIndex3-1].className += " active";
 			 // captionText.innerHTML = dots[slideIndex2-1].alt;
 			}
 
