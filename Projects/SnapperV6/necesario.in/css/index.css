@@ -9,6 +9,9 @@ body {
 	scroll-behavior: smooth;
 	
 }
+section{
+	display: block;
+}
 
 iframe {
 	width: 313px;
@@ -884,9 +887,9 @@ body, html {
 }
 
 /*features*/
-#features,#Product,#SnapperV5 {
-	/* margin-top: 50px;
-	padding: 100px 0px; */
+#features,#Product,#SnapperV5,#team,#support,#product,#testimonials {
+	margin-top: 50px;
+	padding: 100px 0px;
 }
 
 .fe-img-container {
@@ -913,6 +916,7 @@ body, html {
 	font-weight: 500;
 }
 
+
 /*.fe-holder {
 	max-width: 168px;
 	height: 100%;
@@ -922,7 +926,7 @@ body, html {
 
 /*team*/
 #team {
-	padding: 0px 0px 0px 0px;
+	padding: 100px 0px 0px 0px;
 }
 
 .team-container {
@@ -953,7 +957,7 @@ body, html {
 }
 
 .test-img {
-	width: 70%;
+	width: 60%;
 }
 
 /*support*/
@@ -1014,10 +1018,10 @@ body, html {
 	.sub-punch {
 		font-size: 1.2rem;
 	}
-/* 
+
 	#features,#Product,#SnapperV5 {
-		margin-top: 50px;
-	} */
+		margin-top: 20px;
+	}
 
 	.fe-img-container {
 		padding: 50px 0;
@@ -1063,9 +1067,9 @@ body, html {
 		height: 0px;
 	}
 
-	/* #features,#Product,#SnapperV5{
-		padding-bottom: 50px;
-	} */
+	#features,#Product,#SnapperV5{
+		padding-bottom: 20px;
+	}
 
 	.member-img {
 		width: 75%;
