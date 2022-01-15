@@ -394,12 +394,13 @@ body, html {
 
   .progress{
 	position: fixed;
-	top:70px;
+	top: 70px;
 	left: 0;
 	
 	height: 5px;
 	background: linear-gradient(to top,#008aff,#00ffe7);
 	animation: animate 5s linear infinite;
+	border-radius: 0px;
   }
 
   @keyframes animate
@@ -806,6 +807,10 @@ body, html {
 
 
 @media only screen and (max-width: 800px) {
+
+	#img{
+		width: 120%;
+	}
 	#title{
 		font-size:32px;
 		position: inherit;
@@ -828,6 +833,8 @@ body, html {
 	top: 0;
 	z-index: 1000;
 	margin-top: 44px;
+	padding: 0px;
+	
 }
 
 .navbar-nav a:hover {
@@ -887,9 +894,9 @@ body, html {
 }
 
 /*features*/
-#features,#Product,#SnapperV5,#team,#support,#product,#testimonials {
+#features,#SnapperV5,#support {
 	margin-top: 50px;
-	padding: 100px 0px;
+	padding-top: 100px;
 }
 
 .fe-img-container {
