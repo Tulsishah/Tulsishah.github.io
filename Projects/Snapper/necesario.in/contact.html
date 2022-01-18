@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 	
@@ -90,14 +92,17 @@
          
         </div>
         <div class="container" style="text-align: center; width: 100%;padding-bottom: 100px;">
-            <form action="/action_page.php" style="margin-top: 20px;">
+
+        <form action="contact.php" method="post" style="margin-top: 20px;">
             <label class="title" for="html" style="color: white;font-family: sans-serif; font-weight: bolder; position: relative; ">Your Name*</label><br>
-            <input type="text" id="name" name="name" placeholder="Name" style="height: 50px; width: 50%;padding: 10px 15px; border-radius: 10px;border-color: white;"><br><br>
+            <input required type="text" id="name" name="name" placeholder="Name" style="height: 50px; width: 50%;padding: 10px 15px; border-radius: 10px;border-color: white;"><br><br>
+			
             <label for="html" style="color: white; font-family: sans-serif; font-weight: bolder;  ">Email*</label><br>
-            <input type="text" id="email" name="Email" placeholder="Email Address" style="height: 50px; width: 50%;padding: 10px 15px;border-radius: 10px;border-color: white;"><br><br>
-            <label for="html" style="color: white;  font-family: sans-serif; font-weight: bolder; ">Which product are you interested in? *</label><br>
+            <input required type="text" id="email" name="email" placeholder="Email Address" style="height: 50px; width: 50%;padding: 10px 15px;border-radius: 10px;border-color: white;"><br><br>
+        
+			<label for="html" style="color: white;  font-family: sans-serif; font-weight: bolder; ">Which product are you interested in? *</label><br>
             
-            <select name="product" id="products" style="height: 50px; text-align: center;border-radius: 10px;">
+            <select name="product" id="products" style="height: 50px; text-align: center;border-radius: 10px;" name="product">
                 <option value="HeroMirror">HeroMirror</option>
                 <option value="BroadcastAR">BroadcastAR</option>
                 <option value="LiveAvatar">LiveAvatar</option>
@@ -107,7 +112,7 @@
             </select><br><br>
 
             <label for="html" style="color: white; font-family: sans-serif; font-weight: bolder; ">Message (Optional)</label><br>
-            <textarea rows="4" cols="50" placeholder="Tell us your timeline, location and other essential info you think can help..." style="height: 200px; width: 50%;padding: 10px 15px;border-radius: 10px;"></textarea>
+            <textarea id="message" rows="4" cols="50" name="message" placeholder="Tell us your timeline, location and other essential info you think can help..." style="height: 200px; width: 50%;padding: 10px 15px;border-radius: 10px;"></textarea>
 
             <br><br>
             
@@ -116,6 +121,33 @@
           </form>
         </div>
         
+		<!-- <script type="text/javascript">
+
+			function validation(){
+			var name = document.getElementById("name").value;
+			var email = document.getElementById("email").value
+			var products = document.getElementById("products").value;
+			var message = document.getElementById("message").value;
+
+			console.log(email)
+
+			if(name=="")
+			{
+				 document.getElementById("namee").innerHTML = "Please Enter your Name";
+			//	 console.log("tulsi")
+			}
+
+			 if(email.indexof("@")<=0)
+			 {
+				document.getElementById("emaill").innerHTML = "Please Enter valid email address";
+			 }
+
+			}
+
+
+			
+
+		</script> -->
 
 		
 		
