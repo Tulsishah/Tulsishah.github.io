@@ -414,7 +414,19 @@ body, html {
 	  width: 0;
 
   }
+@media(max-width:700px)
+{
+	#test-img{
+		width: 120%;
+	}
+	#rupani{
+		width: 120%;
+	}
 
+	#rashmi{
+		width: 117%;
+	}
+}
   .progress{
 	position: fixed;
 	top: 70px;
@@ -901,6 +913,8 @@ body, html {
 		top:119px; 
 		left:40px;
 		color: #1c1f21;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
 	#blogcontent{
 		position: inherit; 
@@ -909,6 +923,8 @@ body, html {
 		 top:176px ;
 		 left:40px;
 		 right:500px;
+		 margin-left: 20px;
+		 margin-right: 20px;
 	}
   }
 
