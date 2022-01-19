@@ -899,8 +899,15 @@ body, html {
 		width: 100%;
 	}
 }
-
-
+#close2{
+	margin-left: 120%;
+}
+@media(min-width: 800px)
+{
+	#close2{
+		margin-left: 140%;
+	}
+}
 @media only screen and (max-width: 800px) {
 
 	#img{
