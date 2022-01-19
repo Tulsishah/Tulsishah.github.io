@@ -30,6 +30,8 @@
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/index.css" />
+	<link rel="stylesheet"  href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+
 	<script type="text/javascript" src="js/index.js"></script>
 
 	<title>Snapper</title>
@@ -142,7 +144,7 @@
 						</ul>
 					</div>
 		
-					<div class="col-lg-8 col-sm-12 col-xl-6 col-md-12 align-content-center" >
+					<div class="col-lg-6 col-sm-12 col-xl-6 col-md-12 align-content-center" >
 						<img src="images/blog-background.jpg" id="snapperV5img" style="text-align:center ; width:  80%; height: 100%; margin-left: 20px; margin-right: 20px;border-radius: 20px;">
 					</div>
 		
@@ -173,7 +175,63 @@
 				<h1 class="heading" data-aos="fade-up">Features</h1>
 				<div class="d-flex"><p>Fun features & more to be added.</p></div>
 			</div>
-			<div class="container fe-img-container">
+
+			<div class="swiper mySwiper container" style="text-align: center;" id="mobile2">
+				<div class="swiper-wrapper" style="text-align: center;">
+				  <div class="swiper-slide" style="text-align: center;">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 m-2 m-lg-3" style=" display: block;overflow-wrap: anywhere;text-align: -webkit-center;" >
+		
+						<div class="d-flex flex-column justify-content-center align-items-center a-card shadow aos-init aos-animate" style="width: 50%;" >
+							<img src="images/AI_vector2.png" class="fe-img"alt="Avatar" style="border-radius: 50%;" />
+						
+						</div>
+		
+						<div class="tex">
+							<p>Hello</p>
+						</div>
+					</div></div>
+				<div class="swiper-slide" style="text-align: center;">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 m-2 m-lg-3" style="display: block;overflow-wrap: anywhere;text-align: -webkit-center;">
+						<div class="d-flex flex-column justify-content-center align-items-center a-card shadow aos-init aos-animate"style="width: 50%;" >
+							<img src="images/auto_vector2.png" class="fe-img" alt="Avatar" style="border-radius: 50%;" />
+						</div>
+						<div class="tex">
+							<p>Hello</p>
+						</div>
+					
+					</div></div>
+				  <div class="swiper-slide" style="text-align: center;">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 m-2 m-lg-3" style="display: block;overflow-wrap: anywhere;text-align: -webkit-center;" >
+						<div class="d-flex flex-column justify-content-center align-items-center a-card shadow aos-init aos-animate"style="width: 50%;" >
+							<img src="images/queue_vector2.png" class="fe-img"  alt="" />
+						
+						</div>
+						<div class="tex">
+							<p>Hello</p>
+						</div>
+						
+					</div></div>
+
+					<div class="swiper-slide" style="text-align: center;">
+						<div class="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 m-2 m-lg-3" style="display: block;overflow-wrap: anywhere;text-align: -webkit-center;" >
+							<div class="d-flex flex-column justify-content-center align-items-center a-card shadow aos-init aos-animate" style="width: 50%;">
+								<img src="images/queue_vector2.png" class="fe-img"  alt="" />
+								<!-- <p class="fe-sub">Queue mode</p> -->
+							</div>
+							<div class="tex">
+								<p>Hello</p>
+							</div>
+							
+						</div></div>
+				  
+				</div>
+				<!-- <a class="prev2" onclick="plusSlides2(-1)" style="color: black; left: 10px;">❮</a>
+				<a class="next2" onclick="plusSlides2(1)" style="color: black;" >❯</a> -->
+				<div class="swiper-pagination"></div>
+			  </div>
+			
+
+			<div class="container fe-img-container" id="pc2">
 		
 				<div class="row justify-content-center d-flex align-items-center w-100" id="featureItem">
 		
@@ -219,32 +277,61 @@
 						</div>
 						
 					</div>
-					<a class="prev" onclick="plusSlides(-1)" style="color: black; left: 10px;">❮</a>
-							<a class="next" onclick="plusSlides(1)" style="color: black;" >❯</a>
+					<!-- <a class="prev" onclick="plusSlides(-1)" style="color: black; left: 10px;">❮</a>
+							<a class="next" onclick="plusSlides(1)" style="color: black;" >❯</a> -->
 		
 				</div>
-
+<!-- 
 				<div style="text-align:center">
 					<span class="dot2" onclick="currentSlide2(1)"></span> 
 					<span class="dot2" onclick="currentSlide2(2)"></span> 
 					<span class="dot2" onclick="currentSlide2(3)"></span> 
 					<span class="dot2" onclick="currentSlide2(3)"></span> 
-				  </div>
+				  </div> -->
 			</div>
 		</section>
-
-		<section id="Product"  >
-
-			<div class="container header-container text-center">
-				<h1 class="heading" data-aos="fade-up">Our Product</h1>
-				<!-- <div class="d-flex"><p>Fun features & more to be added.</p></div> -->
-			</div>
 		
-			<div class="container fe-img-container" style="text-align: center;">
+     <section id="Product" style="text-align: center;">
+
+		<div class="container header-container text-center">
+			<h1 class="heading" data-aos="fade-up">Our Product</h1>
+			<!-- <div class="d-flex"><p>Fun features & more to be added.</p></div> -->
+		</div>
+		<div class="swiper mySwiper container" style="text-align: center;" id="mobile">
+			<div class="swiper-wrapper" style="text-align: center;">
+			  <div class="swiper-slide" style="text-align: center;">
+				<div class="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 m-2 m-lg-3" style="display: block;overflow-wrap: anywhere;" >
+				<img src="images/test.jpg" style="width:100%; height: 100%; cursor: pointer; " id="showText7">
+				<p id="product-content4" data-aos="fade-up" style="margin:20px;display:none; position: absolute; top: 70%; left:40px;color: black;">Helloooooooooooooooooooo</p>
+				<h2 style="margin:20px;" id="showText2">Headline1</h2>
+			</div></div>
+			<div class="swiper-slide" style="text-align: center;">
+				<div class=" col-12 col-sm-12 col-md-12 col-lg-3 m-2 col-xl-3 m-lg-3" style="display: block;overflow-wrap: anywhere;">
+				<img src="images/test.jpg" style="width:100%; height: 100%;cursor: pointer;" id="showText8">
+				<p id="product-content5" data-aos="fade-up" style="margin:20px;display: none;position: absolute; top: 70%; left:40px;color: white;">Helloooooooooooooooooooooa</p>
+				<h2 style="margin:20px;" id="showText6">Headline3</h2>
+
+
+			</div></div>
+			  <div class="swiper-slide" style="text-align: center;">
+				<div class="col-12 col-sm-12 col-md-12 col-lg-3 m-2 col-xl-3 m-lg-3" style="display: block;overflow-wrap: anywhere;">
+				<img src="images/test.jpg" style="width:100%; height: 100%;cursor: pointer;" id="showText9">
+				<p id="product-content6" data-aos="fade-up" style="margin:20px;display: none;position: absolute; top: 70%; left:40px;color: white;">Helloooooooooooooooooooooa</p>
+				<h2 style="margin:20px;" id="showText6">Headline3</h2>
+
+
+			</div></div>
+			  
+			</div>
+			<!-- <a class="prev2" onclick="plusSlides2(-1)" style="color: black; left: 10px;">❮</a>
+			<a class="next2" onclick="plusSlides2(1)" style="color: black;" >❯</a> -->
+			<div class="swiper-pagination"></div>
+		  </div>
+		<div class="container fe-img-container" style="text-align: center;" id="pc">
 		
 				<div class="row justify-content-center align-items-center w-100" style="text-align: center;">
 		
-					<div class="mySlide2 col-9 col-lg m-2 m-lg-3" style="display: block;overflow-wrap: anywhere;" >
+					<div class="mySlide2 col-9 col-sm-4 col-lg-3 m-2 m-lg-3" style="display: block;overflow-wrap: anywhere;" >
 						<img src="images/test.jpg" style="width:100%; height: 100%; cursor: pointer; margin-left: 20px;" id="showText1">
 						<p id="product-content1" data-aos="fade-up" style="margin:20px;display:none; position: absolute; top: 70%; left:40px;color: black;">Helloooooooooooooooooooo</p>
 						<h2 style="margin:20px;" id="showText2">Headline1</h2>
@@ -254,7 +341,7 @@
 					</div>
 		
 		
-					<div class="mySlide2 col-9 col-lg m-2 m-lg-3" style="overflow-wrap: anywhere;">
+					<div class="mySlide2 col-9 col-sm-4 col-lg-3 m-2 m-lg-3" style="overflow-wrap: anywhere;">
 						<img src="images/test.jpg" style="width:100%; height: 100%;;cursor: pointer;margin-left: 20px;" id="showText3">
 						<p id="product-content2" data-aos="fade-up" style="margin:20px;display: none;position: absolute; top: 70%; left:40px;color: white;">Hellooooooooooooooooooooo</p>
 						<h2 style="margin:20px;" id="showText4">Headline2</h2>
@@ -262,7 +349,7 @@
 		
 					</div>
 		
-					<div class="mySlide2 col-9 col-lg m-2 m-lg-3" style="overflow-wrap: anywhere;">
+					<div class="mySlide2 col-9 col-sm-4 col-lg-3 m-2 m-lg-3" style="overflow-wrap: anywhere;">
 						<img src="images/test.jpg" style="width:100%; height: 100%;cursor: pointer;margin-left: 20px;" id="showText5">
 						<p id="product-content3" data-aos="fade-up" style="margin:20px;display: none;position: absolute; top: 70%; left:40px;color: white;">Helloooooooooooooooooooooa</p>
 						<h2 style="margin:20px;" id="showText6">Headline3</h2>
@@ -292,7 +379,32 @@
 				<h1 class="heading" data-aos="fade-up">Our team & advisors</h1>
 				<div class="d-flex"><p>Who we are.</p></div>
 			</div>
-			<div class="container team-container">
+
+			<div class="swiper mySwiper container" style="text-align: center;" id="mobile3">
+				<div class="swiper-wrapper" style="text-align: center;">
+				  <div class="swiper-slide" style="text-align: center;">
+					<div class="fade2 col" style="display: block;"><div class="d-flex justify-content-center align-items-center" ><img id="img" style="margin-left:40px;" src="images/team/ia2.png" class="member-img" alt=""></div></div>
+					</div>
+				<div class="swiper-slide" style="text-align: center;">
+					<div class=" fade2 col" style="display: block;"><div class="d-flex justify-content-center align-items-center"><img id="img" style="margin-left:40px;" src="images/team/kd2.png" class="member-img" alt=""></div></div>
+					</div>
+				  <div class="swiper-slide" style="text-align: center;">
+					<div class=" fade2 col" style="display: block;"><div class="d-flex justify-content-center align-items-center"><img id="img" style="margin-left:40px;" src="images/team/nt2.png" class="member-img" alt=""></div>
+				
+					</div>
+					</div>
+
+					
+				  
+				</div>
+				<!-- <a class="prev2" onclick="plusSlides2(-1)" style="color: black; left: 10px;">❮</a>
+				<a class="next2" onclick="plusSlides2(1)" style="color: black;" >❯</a> -->
+				<div class="swiper-pagination"></div>
+			  </div>
+			
+
+		
+			<div class="container team-container" id="pc3">
 				<div class="row justify-content-center w-100">
 				<div class="mySlide3  fade2 col" style="display: block;"><div class="d-flex justify-content-center align-items-center" ><img id="img" style="margin-left:40px;" src="images/team/ia2.png" class="member-img" alt=""></div></div>
 				<div class="mySlide3  fade2 col"><div class="d-flex justify-content-center align-items-center"><img id="img" style="margin-left:40px;" src="images/team/kd2.png" class="member-img" alt=""></div></div>
@@ -467,28 +579,32 @@
 
 			</div>
 		</div>
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+	
+
+		
+
+
+
+		<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+		<script>
 			
-		
-		
-		
-		
-		
-		
+      var swiper = new Swiper(".mySwiper", {
+        pagination: {
+          el: ".swiper-pagination",
+        },
+      });
+  
 	
-
-	
-	
-
-		
-
-
-
-
-		
-
-		
-			
-		  <script>
 			var slideIndex = 1;
 		//	showSlides(slideIndex);
 			
@@ -634,55 +750,107 @@
 			})
 
 			const showtext1 = document.getElementById('showText1');
-		//	const showtext2 = document.getElementById('showText2');
+			const showtext7 = document.getElementById('showText7');
 			const showtext3 = document.getElementById('showText3');
-		//	const showtext4 = document.getElementById('showText4');
+			const showtext8 = document.getElementById('showText8');
 			const showtext5 = document.getElementById('showText5');
-		//	const showtext6 = document.getElementById('showText6');
+			const showtext9 = document.getElementById('showText9');
 			const product1 = document.getElementById('product-content1')
 			const product2 = document.getElementById('product-content2')
 			const product3 = document.getElementById('product-content3')
+			const product4 = document.getElementById('product-content4')
+			const product5 = document.getElementById('product-content5')
+			const product6 = document.getElementById('product-content6')
 
 			showtext1.addEventListener("mouseover",()=>{
 		//		console.log("tulsi")
 				product1.style.display='block';
 			})
-			// showtext2.addEventListener("mouseover",()=>{
-			// 	product1.style.display='block';
-			// })
+			showtext7.addEventListener("mouseover",()=>{
+				product4.style.display='block';
+			})
 			showtext3.addEventListener("mouseover",()=>{
 				product2.style.display='block';
 			})
-			// showtext4.addEventListener("mouseover",()=>{
-			// 	product2.style.display='block';
-			// })
+			showtext8.addEventListener("mouseover",()=>{
+				product5.style.display='block';
+			})
 			showtext5.addEventListener("mouseover",()=>{
 				product3.style.display='block';
 			})
-			// showtext6.addEventListener("mouseover",()=>{
-			// 	product3.style.display='block';
-			// })
+			showtext9.addEventListener("mouseover",()=>{
+				product6.style.display='block';
+			})
 			
 
 			showtext1.addEventListener("mouseout",()=>{
 				product1.style.display='none';
 			})
-			// showtext2.addEventListener("mouseout",()=>{
-			// 	product1.style.display='none';
-			// })
+			showtext7.addEventListener("mouseout",()=>{
+				product4.style.display='none';
+			})
 			showtext3.addEventListener("mouseout",()=>{
 				product2.style.display='none';
 			})
-			// showtext4.addEventListener("mouseout",()=>{
-			// 	product2.style.display='none';
-			// })
+			showtext8.addEventListener("mouseout",()=>{
+				product5.style.display='none';
+			})
 			showtext5.addEventListener("mouseout",()=>{
 				product3.style.display='none';
 			})
-			// showtext6.addEventListener("mouseout",()=>{
-			// 	product3.style.display='none';
-			// })
-		    
+			showtext9.addEventListener("mouseout",()=>{
+				product6.style.display='none';
+			})
+
+
+			function myFunction(x) {
+
+				var mobile = document.getElementById("mobile");
+				var pc = document.getElementById("pc");
+			if (x.matches) { // If media query matches
+			   mobile.style.display="none";
+			   pc.style.display = "block";
+			} else {
+				mobile.style.display="block";
+			    pc.style.display = "none";
+			}
+			}
+
+			function myFunction2(x) {
+
+			var mobile = document.getElementById("mobile2");
+			var pc = document.getElementById("pc2");
+			if (x.matches) { // If media query matches
+			mobile.style.display="none";
+			pc.style.display = "block";
+			} else {
+			mobile.style.display="block";
+			pc.style.display = "none";
+			}
+			}
+
+			function myFunction3(x) {
+
+			var mobile = document.getElementById("mobile3");
+			var pc = document.getElementById("pc3");
+			if (x.matches) { // If media query matches
+			mobile.style.display="none";
+			pc.style.display = "block";
+			} else {
+			mobile.style.display="block";
+			pc.style.display = "none";
+			}
+			}
+
+			var x = window.matchMedia("(min-width:980px)")
+			var x1 = window.matchMedia("(min-width:601px)")
+			myFunction(x)
+			myFunction2(x1) 
+			myFunction3(x1)  // Call listener function at run time
+			x.addListener(myFunction) // Attach listener function on state changes
+			x1.addListener(myFunction2) 
+			x1.addListener(myFunction3) 
+						
 
 			
 	    </script>
