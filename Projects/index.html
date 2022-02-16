@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+  
+<head>
+    <title>
+        Get the Android version of your device.
+    </title>
+    <script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    </script>
+    <style>
+        body {
+            text-align: center;
+        }
+          
+        h1 {
+            color: green;
+        }
+          
+        .gfg {
+            font-size: 20px;
+            font-weight: bold;
+        }
+          
+        #geeks {
+            font-size: 24px;
+            font-weight: bold;
+            color: green;
+        }
+    </style>
+</head>
+  
+<body>
+    <h1> 
+      GeeksForGeeks 
+    </h1>
+    <p class="gfg">
+      Click on the button to get the android 
+      version of the user.
+    </p>
+    <button onclick="GFG_Fun()">
+        click here
+    </button>
+    <p id="geeks">
+    </p>
+    <script>
+        var element = document.getElementById("body");
+  
+        function androidV(ua) {
+            ua = (ua || navigator.userAgent).toLowerCase(); 
+            var match = ua.match(/android\s([0-9\.]*)/i);
+            return match ? match[1] : undefined;
+        };
+        function GFG_Fun() {            
+            $('#geeks').html(androidV());
+        }
+    </script>
+</body>
+  
+</html>     
